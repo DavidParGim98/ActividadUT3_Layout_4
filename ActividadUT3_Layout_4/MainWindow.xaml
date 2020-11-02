@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ActividadUT3_Layout_4"
         mc:Ignorable="d"
-        Title="Visor de Imagenes" MinHeight="600" MinWidth="700">
+        Title="Visor de Imagenes" MinHeight="600" MinWidth="700" Icon="icon.ico">
 
     <DockPanel LastChildFill="True">
         <DockPanel Height="75" Background="LightBlue" DockPanel.Dock="Bottom" Margin="10">
